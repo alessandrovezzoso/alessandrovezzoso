@@ -1,6 +1,6 @@
 ### Hi, I'm Alessandro
 
-Computer Science student and Apprentice Software Developer at [Platinumdata S.R.L.](https://platinumdata.it).
+Computer Science student and Junior System Administrator at [Platinumdata S.R.L.](https://platinumdata.it).
 Interested in backend development and cybersecurity.
 
 ---
