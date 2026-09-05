@@ -14,3 +14,4 @@ Interested in backend development and cybersecurity.
 #### Certifications
 
 <img src="introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity" width="100">
+<img src="networking-basics.png" alt="Introduction to Cybersecurity" width="100">
