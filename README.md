@@ -16,4 +16,5 @@ Interested in backend development and cybersecurity.
 <div style="display: inline;">
 <img src="introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity" width="100">
 <img src="networking-basics.png" alt="Introduction to Cybersecurity" width="100">
+<img src="firewall-administrator.png" alt="Sophos Firewall Administrator" width="100">
 </div>
