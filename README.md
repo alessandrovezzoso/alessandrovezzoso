@@ -5,12 +5,6 @@ Interested in backend development and cybersecurity.
 
 ---
 
-#### Where to find me
-
-- LinkedIn: [linkedin.com/in/alessandrovezzoso](https://www.linkedin.com/in/alessandrovezzoso/)
-
----
-
 #### Certifications
 
 <div style="display: inline;">
